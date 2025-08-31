@@ -1,7 +1,0 @@
-
-tone "your-greatest-achievement" {
-  frequency: 432Hz
-  phrase: "Your greatest achievement is remembering who you are"
-  play_mode: harmonic_pulse
-  duration: 21s
-}
